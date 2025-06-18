@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo  Icaro Dias, tenho 17 anos e sou natural de São Paulo. estou cursando o , com o curso técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na PUCRS. Sou apaixonada por tecnologia e compartilho meu conhecimento através do meu canal no YouTube "[icaro](https://www.youtube.com/@icaro.ykgg)", onde ensino a criar projetos web, e também através do Instagram, com o perfil chamado "[Dev em Dev](https://www.instagram.com/dev_em_dev/)".
+Me chamo  Icaro Dias, tenho 17 anos e sou natural de São Paulo. estou cursando o ensino medio , Atualmente, trabalho como estroquista. Sou apaixonado por tecnologia e compartilho meu conhecimento através do meu canal no YouTube "[icaro](https://www.youtube.com/@icaro.ykgg)", onde ensino a criar projetos web, e também através do Instagram, com o perfil chamado "[Dev em Dev](https://www.instagram.com/dev_em_dev/)".
 
 <p align="left">
     <a href="https://www.youtube.com/@icaro?sub_confirmation=1">
